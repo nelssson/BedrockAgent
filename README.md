@@ -212,3 +212,9 @@ collection       # Collection name (default: rag_filetranscript)
 ---
 
 **Built with** ❤️ using Amazon Bedrock, AWS Lambda, and DataStax Astra DB
+
+
+
+
+
+
