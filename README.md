@@ -216,8 +216,7 @@ collection       # Collection name (default: rag_filetranscript)
 
 
 <p align="center">
-  <img src="BedrockAgent
-/input/BedRockinputoutput.png" alt="App Screenshot" width="500"/>
+  <img src="/input/BedRockinputoutput.png" alt="App Screenshot" width="500"/>
 </p>
 
 
