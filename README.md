@@ -215,6 +215,9 @@ collection       # Collection name (default: rag_filetranscript)
 
 
 
+<p align="center">
+  <img src="images/screenshot.png" alt="App Screenshot" width="500"/>
+</p>
 
 
 
