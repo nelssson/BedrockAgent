@@ -199,19 +199,7 @@ collection       # Collection name (default: rag_filetranscript)
 6. Test the integration
 
 
-```
 
-
-
-```
-
-
-
-
-
----
-
-**Built with** ❤️ using Amazon Bedrock, AWS Lambda, and DataStax Astra DB
 
 ![image alt](https://github.com/nelssson/BedrockAgent/blob/00435459ec5f75767468d85de121f35ee7497392/input/BedRockinputoutput.png)
 
