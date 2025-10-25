@@ -1,4 +1,3 @@
-
 # Bedrock Agent with Astra DB Vector Search
 
 A serverless AI agent implementation that enables semantic search capabilities by integrating Amazon Bedrock Agents with DataStax Astra DB through AWS Lambda.
@@ -97,6 +96,9 @@ This project implements a RAG (Retrieval Augmented Generation) pattern where:
 │                 │
 └─────────────────┘
 ```
+##  INPUT OUTPUT IMAGE
+![image alt](input/BedRockinputoutput.png)
+
 
 ## 🔧 Technology Stack
 
@@ -199,10 +201,7 @@ collection       # Collection name (default: rag_filetranscript)
 6. Test the integration
 
 
-
-
-![image alt](https://github.com/nelssson/BedrockAgent/blob/00435459ec5f75767468d85de121f35ee7497392/input/BedRockinputoutput.png)
-
+ 
 
 
  
