@@ -214,7 +214,7 @@ collection       # Collection name (default: rag_filetranscript)
 **Built with** ❤️ using Amazon Bedrock, AWS Lambda, and DataStax Astra DB
 
 
-![image alt](.png file link)
+![image alt](https://github.com/nelssson/BedrockAgent/blob/a6556bf4c78811ef74e1ba903072766b4f6e2c9b/input/BedRockinputoutput.png) 
 
 
 
