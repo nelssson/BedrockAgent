@@ -214,10 +214,7 @@ collection       # Collection name (default: rag_filetranscript)
 **Built with** ❤️ using Amazon Bedrock, AWS Lambda, and DataStax Astra DB
 
 
-
-<p align="center">
-  <img src="/input/BedRockinputoutput.png" alt="App Screenshot" width="500"/>
-</p>
+![image alt](.png file link)
 
 
 
